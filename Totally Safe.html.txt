@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <style>
+      img {
+        width: 200px; /* Adjust size as needed */
+        height: auto;
+        display: block;
+        margin: 10px; /* Add spacing between images */
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Use the direct link here -->
+    <img src="https://drive.google.com/uc?export=view&id=1OqcKCLAL6t8YlBoW3jgbzahPZB5N1NHa">
+    <img src="https://drive.google.com/uc?export=view&id=1OqcKCLAL6t8YlBoW3jgbzahPZB5N1NHa">
+    <img src="https://drive.google.com/uc?export=view&id=1OqcKCLAL6t8YlBoW3jgbzahPZB5N1NHa">
+    <img src="https://drive.google.com/uc?export=view&id=1OqcKCLAL6t8YlBoW3jgbzahPZB5N1NHa">
+    <img src="https://drive.google.com/uc?export=view&id=1OqcKCLAL6t8YlBoW3jgbzahPZB5N1NHa">
+    <img src="https://drive.google.com/uc?export=view&id=1OqcKCLAL6t8YlBoW3jgbzahPZB5N1NHa">
+    <img src="https://drive.google.com/uc?export=view&id=1OqcKCLAL6t8YlBoW3jgbzahPZB5N1NHa">
+    <img src="https://drive.google.com/uc?export=view&id=1OqcKCLAL6t8YlBoW3jgbzahPZB5N1NHa">
+    <img src="https://drive.google.com/uc?export=view&id=1OqcKCLAL6t8YlBoW3jgbzahPZB5N1NHa">
+    <img src="https://drive.google.com/uc?export=view&id=1OqcKCLAL6t8YlBoW3jgbzahPZB5N1NHa">
+  </body>
+</html>
